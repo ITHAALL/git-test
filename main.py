@@ -1,2 +1,3 @@
-print("hia")
-print("abbbb")
+import random
+
+print(random.randint(1, 100))
